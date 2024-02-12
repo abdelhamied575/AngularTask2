@@ -1,0 +1,33 @@
+
+
+
+
+
+
+
+
+footer ul li{
+    width: 50px;
+    height: 50px;
+    border: 2px solid #fff;
+    border-radius: 50%;
+    
+}
+
+footer{
+    background-color: #2C3E50;
+}
+
+
+nav{
+    background-color: #2C3E50;
+}
+
+nav a{
+    color: #fff !important;
+}
+
+.footer-copy{
+    background-color: #1A252F;
+    color: #fff;
+}
